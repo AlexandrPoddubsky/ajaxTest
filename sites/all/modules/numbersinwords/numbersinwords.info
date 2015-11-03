@@ -1,0 +1,5 @@
+name = Numbers in Words
+description = A module which converts numbers from their numeric form into words
+package = Epicodus Examples
+core = 7.x
+files[] = numbersinwords.module
